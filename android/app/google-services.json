@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "277258247236",
+    "firebase_url": "https://calculadorasn1.firebaseio.com",
+    "project_id": "calculadorasn1",
+    "storage_bucket": "calculadorasn1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277258247236:android:20301ab7f5ae3a48c1b011",
+        "android_client_info": {
+          "package_name": "com.mermao.calculadora1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277258247236-qne6imsvq8mvkaui2odktov42gmp5nbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIRKy9h51HyiH4aeNGJAty1rOclcqapa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277258247236-qne6imsvq8mvkaui2odktov42gmp5nbh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
